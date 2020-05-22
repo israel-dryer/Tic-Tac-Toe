@@ -4,7 +4,6 @@
     Modified: 2020-05-22
 """
 from math import sqrt
-from time import sleep
 from random import choice
 import tkinter as tk
 from tkinter import messagebox, PhotoImage
